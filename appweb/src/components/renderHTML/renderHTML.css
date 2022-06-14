@@ -1,0 +1,11 @@
+img{
+    width: max-content !important;
+    max-height: 300px !important;
+}
+
+.img-box{
+    display: flex;
+    justify-content: center;
+    margin-top : 20px;
+    margin-bottom : 20px;
+}

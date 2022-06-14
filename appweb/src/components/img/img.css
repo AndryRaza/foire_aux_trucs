@@ -1,0 +1,13 @@
+.image-item {
+    display: flex;
+}
+
+.image-item__btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+button {
+        width: max-content;
+}

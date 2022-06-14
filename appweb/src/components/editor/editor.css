@@ -1,0 +1,36 @@
+.editor {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    cursor: text;
+    padding: 16px;
+    border-radius: 2px;
+    margin-bottom: 2em;
+    box-shadow: inset 0px 1px 8px -3px #ababab;
+    background: #fefefe;
+  }
+  
+  .editor .public-DraftEditor-content {
+    min-height: 140px;
+  }
+
+  
+.icons-toolbar .anticon {
+    color: #888888;
+    font-weight: bold;
+    font-size: 20px;
+    background: #fbfbfb;
+    color: #888;
+    font-size: 18px;
+    border: 0;
+    vertical-align: bottom;
+    height: 34px;
+    width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  .anticon:hover {
+    background: #f3f3f3;
+    outline: 0;
+  }

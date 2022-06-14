@@ -1,0 +1,24 @@
+La Foire aux trucs 
+
+Version Application Web : 
+
+- Création de pages blogs
+- Gérer son compte & ses pages, lien du blog à partager 
+
+ 
+Version Mobile :
+
+- Prendre des photos 
+- Générer un mdp aléatoire 
+
+Version desktop : 
+
+- Stats 
+- Enregistrement vidéo 
+
+
+-----------------------------------------
+
+
+
+
